@@ -1,0 +1,4 @@
+<resources>
+    <color name="errorColor">#FF0000</color>
+    <color name="noErrorColor">#000000</color>
+</resources>
